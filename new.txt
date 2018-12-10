@@ -1,0 +1,5 @@
+asdfsdfsdf.txt
+
+modify new.txt
+
+i modify the bug and commit.
